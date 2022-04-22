@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomuserapp/static/css/main.7219fcca.css",
+    "main.js": "/randomuserapp/static/js/main.29de9863.js",
+    "index.html": "/randomuserapp/index.html",
+    "main.7219fcca.css.map": "/randomuserapp/static/css/main.7219fcca.css.map",
+    "main.29de9863.js.map": "/randomuserapp/static/js/main.29de9863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7219fcca.css",
+    "static/js/main.29de9863.js"
+  ]
+}
