@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/randomuserapp/static/css/main.7219fcca.css",
-    "main.js": "/randomuserapp/static/js/main.29de9863.js",
-    "index.html": "/randomuserapp/index.html",
-    "main.7219fcca.css.map": "/randomuserapp/static/css/main.7219fcca.css.map",
-    "main.29de9863.js.map": "/randomuserapp/static/js/main.29de9863.js.map"
+    "main.css": "/github.io/tesla-clone/static/css/main.1d17d576.css",
+    "main.js": "/github.io/tesla-clone/static/js/main.cb8e218e.js",
+    "static/js/787.860837ff.chunk.js": "/github.io/tesla-clone/static/js/787.860837ff.chunk.js",
+    "static/media/Desktop-SolarRoof.jpeg": "/github.io/tesla-clone/static/media/Desktop-SolarRoof.9eb2e602adaeba8e4715.jpeg",
+    "static/media/Desktop-SolarPanels.jpeg": "/github.io/tesla-clone/static/media/Desktop-SolarPanels.d7d441d74e34d37c2c00.jpeg",
+    "static/media/Desktop-ModelX.jpeg": "/github.io/tesla-clone/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
+    "static/media/Desktop-ModelS.jpeg": "/github.io/tesla-clone/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
+    "static/media/Desktop-ModelY.jpeg": "/github.io/tesla-clone/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
+    "static/media/Desktop-Model3.jpeg": "/github.io/tesla-clone/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
+    "static/media/iCiel-Medium.ttf": "/github.io/tesla-clone/static/media/iCiel-Medium.b23bb62d3ada95759750.ttf",
+    "static/media/Desktop-Accessories.jpg": "/github.io/tesla-clone/static/media/Desktop-Accessories.027ada94d343f5d81f6d.jpg",
+    "index.html": "/github.io/tesla-clone/index.html",
+    "static/media/teslaLogo.svg": "/github.io/tesla-clone/static/media/teslaLogo.efd0ebbb2b38b144a8047a26224a3b2a.svg",
+    "main.1d17d576.css.map": "/github.io/tesla-clone/static/css/main.1d17d576.css.map",
+    "main.cb8e218e.js.map": "/github.io/tesla-clone/static/js/main.cb8e218e.js.map",
+    "787.860837ff.chunk.js.map": "/github.io/tesla-clone/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7219fcca.css",
-    "static/js/main.29de9863.js"
+    "static/css/main.1d17d576.css",
+    "static/js/main.cb8e218e.js"
   ]
 }
